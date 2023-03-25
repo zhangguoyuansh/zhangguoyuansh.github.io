@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 1"
+title: "Charles Darwin University"
 collection: teaching
-type: "Undergraduate course"
+type: "Postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University, IT Department"
+date: 2020-03-01
+location: "Darwin, NT"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## Master of IT and Data Science
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Met the best supervisor.
+* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
+  * Enterprise IT Management
+  * Data Analytics and Visualisation
+  * Principles of Software Systems
+  * Asset Security and Risk Management
+  * Statistics
+  * Advanced Data Management
+  * Project Management Risk and Reliability
