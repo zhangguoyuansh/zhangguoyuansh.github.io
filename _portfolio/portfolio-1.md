@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Data engineer, PM, machine learner, 'stay foolish, stay hungry', and "Debug the world"<br/><br/><img src='/images/1587089517447.jpeg'>"
 collection: portfolio
 ---
 
