@@ -11,7 +11,7 @@ location: "Darwin, NT"
 ## Master of IT and Data Science
 
 * Met the best supervisor.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
+
   * Enterprise IT Management
   * Data Analytics and Visualisation
   * Principles of Software Systems
