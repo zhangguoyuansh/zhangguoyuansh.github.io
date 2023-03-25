@@ -31,4 +31,6 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 
-<iframe width="560" height="315" src="https://youtu.be/BWy55Yun8Os" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+[![Liam Ma Data enginner](https://i9.ytimg.com/vi_webp/BWy55Yun8Os/mq1.webp?sqp=CLSZ-qAG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgUShBMA8=&rs=AOn4CLC3qjksRNrqcmYfxVzD-EV2mIISBA)](https://youtu.be/BWy55Yun8Os)
+
