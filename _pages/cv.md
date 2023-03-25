@@ -19,11 +19,9 @@ Work experience
 * 2022 to Now: Solutions Architect
   * ALPA
   * Project Development
-
 * 2013 to 2019: Senior development engineer | Product Manager
   * Xiwanghulian
   * Project Development, Product management
-
 * 2012 to 2013: Web Developer Intern | Product Manager
   * Alibaba
   * Project Development, Product management
