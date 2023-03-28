@@ -34,5 +34,5 @@ Service and leadership
 
 <!-- [![Liam Ma Data enginner](https://i9.ytimg.com/vi_webp/BWy55Yun8Os/mq1.webp?sqp=CLSZ-qAG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgUShBMA8=&rs=AOn4CLC3qjksRNrqcmYfxVzD-EV2mIISBA)](https://youtu.be/BWy55Yun8Os) -->
 
-[![Liam Ma Data enginner](https://zhangguoyuansh.github.io/images/IMG_0185.jpg)](https://youtu.be/BWy55Yun8Os)
+[![Liam Ma Data enginner](https://zhangguoyuansh.github.io/images/play.jpg)](https://youtu.be/BWy55Yun8Os)
 
