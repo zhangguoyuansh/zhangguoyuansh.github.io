@@ -29,7 +29,7 @@ Work experience
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* [Download paper here](https://zhangguoyuansh.github.io/files/Yajun(Liam)%20Ma-PY-CV.pdf)
 
 
 <!-- [![Liam Ma Data enginner](https://i9.ytimg.com/vi_webp/BWy55Yun8Os/mq1.webp?sqp=CLSZ-qAG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgUShBMA8=&rs=AOn4CLC3qjksRNrqcmYfxVzD-EV2mIISBA)](https://youtu.be/BWy55Yun8Os) -->
