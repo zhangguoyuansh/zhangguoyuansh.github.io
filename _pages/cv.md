@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: (https://zhangguoyuansh.github.io/files/Yajun(Liam)%20Ma-PY-CV.pdf)
+permalink: //
 author_profile: true
 redirect_from:
   - /resume
